@@ -1,12 +1,4 @@
-/**********************************************************************************  
- * BTI425–Assignment 1*  
- * I declare that this assignment is my ownwork in accordance with SenecaAcademic Policy.  
- * *  No part of this assignment has been copied manually or electronically from any other source
- * *  (including web sites) or distributed to other students.* *  Name: Khashayar Faeghi Student ID: 125630186  Date: 01/31/2021
- * 
- * ********************************************************************************* 
- * 
- * **/
+
 
 $(document).ready(function(){
     
